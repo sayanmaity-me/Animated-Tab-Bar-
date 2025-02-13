@@ -17,7 +17,7 @@ Animated-Tab-Bar/ │── index.html # Main HTML structure
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/sayanmaity-me/Animated-Tab-Bar-.git
-   cd Animated-Tab-Bar-
+   
 Open index.html in your browser to see the animated tab bar in action.
 
 GitHub Repository: Animated Tab Bar
