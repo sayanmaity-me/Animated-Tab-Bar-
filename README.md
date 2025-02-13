@@ -1,19 +1,28 @@
-🎨 Animated Tab Bar
-An interactive and responsive tab bar component built with HTML, CSS, and JavaScript.
+# 🎨 Animated Tab Bar  
 
-✨ Features
-Smooth Animations: Seamless transitions enhance user experience.
-Responsive Design: Optimized for both desktop and mobile devices.
-Lightweight: Minimal code ensures quick load times.
-📂 Project Structure
-index.html: Main HTML file containing the structure.
-style.css: CSS file for styling and animations.
-script.js: JavaScript file for interactive behavior.
-🚀 Usage
-Clone the Repository:
-bash
-Copy
-Edit
-git clone https://github.com/sayanmaity-me/Animated-Tab-Bar-.git
-cd Animated-Tab-Bar-
-Open index.html: Simply open the index.html file in your preferred web browser to view the animated tab bar in action.
+A stylish and interactive tab bar built using **HTML, CSS, and JavaScript**.  
+
+## 🚀 Features  
+- ✨ **Smooth Animations** – Enhances user experience with fluid transitions.  
+- 📱 **Responsive Design** – Works seamlessly on desktop and mobile devices.  
+- 🎨 **Minimal & Modern UI** – Clean and elegant design.  
+- ⚡ **Lightweight & Fast** – Optimized for better performance.  
+
+## 📂 Project Structure  
+Animated-Tab-Bar/ │── index.html # Main HTML structure
+│── style.css # Styling and animations
+│── script.js # JavaScript for interactions
+
+
+
+## 🔧 Installation & Usage  
+1. **Clone the Repository**  
+   ```sh
+   git clone <your-repo-URL>
+   cd Animated-Tab-Bar
+Open index.html in your browser to see the animated tab bar in action.
+Enjoy coding! 🚀✨
+
+
+
+
